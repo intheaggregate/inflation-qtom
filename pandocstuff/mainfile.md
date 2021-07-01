@@ -17,7 +17,7 @@ author:
   Joshua Z. Miller\
   June 2021 ¶ ¶\
 bibliography:
-- nabigbib.bib
+- biblio.md
 date: June 2021
 title: |
 
